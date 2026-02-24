@@ -16,7 +16,7 @@ Code release for our paper:
 
 ### Planned Timeline
 
-- [x] (Feb 2026) Paper + arXiv release
+- [x] (Feb 2026) arXiv release
 - [ ] Code release (coming soon)
 
 ## BibTeX

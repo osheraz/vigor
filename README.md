@@ -1,6 +1,6 @@
 ## VIGOR
 
-[[project page](https://osheraz.github.io/vigor/)] [[arxiv](https://arxiv.org/abs/2602.16511)]
+[[project page](https://vigor2026.github.io)] [[arxiv](https://arxiv.org/abs/2602.16511)]
 
 Code release for our paper:
 

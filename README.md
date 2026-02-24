@@ -18,6 +18,8 @@ Code release for our paper:
 
 - [x] (Feb 2026) arXiv release
 - [ ] Code release (coming soon)
+- [ ] Release pretrained checkpoints
+- [ ] Release real-world deployment code
 
 ## BibTeX
 

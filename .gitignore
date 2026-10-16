@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+checkpoints/*
+!checkpoints/student.pt
+!checkpoints/policy.json
+results/

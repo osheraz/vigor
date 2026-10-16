@@ -1,0 +1,6 @@
+mujoco==3.10.0
+torch>=2.6
+viser==1.0.26
+numpy
+scipy
+yourdfpy

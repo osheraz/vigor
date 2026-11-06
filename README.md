@@ -43,7 +43,7 @@ Files: `sim.py` (simulation/viewer), `starts.py` (start sampling), `assets/`
 - [ ] Pretrained checkpoint release
 - [ ] Teacher training and motion preparation
 - [ ] Student training
-- [ ] Full integration with [g1_deploy (refactor branch)](https://github.com/osheraz/g1_deploy/tree/proposal/reorganization-20261031) for real-world deployment
+- [ ] Full integration with [g1_deploy](https://github.com/osheraz/g1_deploy) for real-world deployment
 
 We are developing a minimal onboard version.
 

@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+checkpoints/*
+!checkpoints/g1_23/
+!checkpoints/g1_29/
+results/
